@@ -1,0 +1,23 @@
+#logo {
+  color: white;
+}
+
+#rock, #paper, #scissors {
+  border: solid;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+#table-header {
+    border-style: solid;
+  }
+  
+  #table-titles {
+    width: 100%;
+    font: bold;
+  }
+
+  #column-header {
+    font-weight: bold;
+    text-decoration: underline;
+  }
