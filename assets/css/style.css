@@ -25,3 +25,7 @@
   #data-input {
     margin-top: 20px;
   }
+
+  #header-text, #current-time {
+    color: white;
+  }
